@@ -6,7 +6,7 @@
     <title>day 2 learning php</title>
 </head>
 <body>
-    <p>This is going to be ignored by the browser</p>
+    <p>This is going to be ignored by the php parser</p>
     <?php
 
     echo "Hello world \n";

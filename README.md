@@ -16,3 +16,8 @@
 // make sure you close using ; echo "Hello world";
 echo "Hello world";
 ?>
+```
+
+## References
+- [https://www.tutorialspoint.com/article/php-resources](https://www.tutorialspoint.com/article/php-resources)
+- [https://www.php.net/manual/en/resource.php](https://www.php.net/manual/en/resource.php)
