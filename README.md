@@ -21,3 +21,4 @@ echo "Hello world";
 ## References
 - [https://www.tutorialspoint.com/article/php-resources](https://www.tutorialspoint.com/article/php-resources)
 - [https://www.php.net/manual/en/resource.php](https://www.php.net/manual/en/resource.php)
+- [PHP.Watch PHP News, Articles, Upcoming Changes, and more](https://php.watch/)
